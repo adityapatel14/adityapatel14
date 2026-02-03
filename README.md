@@ -12,5 +12,5 @@
 ## Tech Stack
 Python | Pandas | NumPy | SQL | Power BI | Excel | Git
 
-📫 Email: [Email](mailto:akp2k4@gmail.com)  
+📫 Email: [akp2k4@gmail.com](mailto:akp2k4@gmail.com)  
 🔗 LinkedIn: [aditya-kaushik-patel](https://www.linkedin.com/in/aditya-kaushik-patel)
