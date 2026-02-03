@@ -37,8 +37,8 @@ Python | Pandas | NumPy | SQL (MySQL) | Power BI | Excel | Tableau | Git | GitHu
 
 ---
 
-## GitHub Stats
-![Aditya's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adityapatel14&show_icons=true)
+## Focus
+Building business analytics projects using SQL, Python, Excel, and Power BI, while actively learning Machine Learning to apply predictive insights on real-world datasets.
 
 ---
 
