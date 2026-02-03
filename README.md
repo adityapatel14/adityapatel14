@@ -38,7 +38,7 @@ Python | Pandas | NumPy | SQL (MySQL) | Power BI | Excel | Tableau | Git | GitHu
 ---
 
 ## GitHub Stats
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityapatel14&show_icons=true)
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityapatel14&show_icons=true&theme=default&cache_seconds=1800)
 
 ---
 
