@@ -5,8 +5,8 @@
 📊 Interested in: Data Analytics, Business Intelligence, ML  
 
 ## Projects
-- Sales Analysis Dashboard (Power BI)
-- Customer Segmentation (Python)
+- Sales Analysis Dashboard (Power BI) 
+- Internship Observation (Python)
 - SQL Case Studies
 
 ## Tech Stack
