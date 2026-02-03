@@ -1,5 +1,5 @@
 # Hi, I'm Aditya Patel 👋
-
+📈 I analyze data to uncover insights and build dashboards that support business decisions.
 🎓 Aspiring Data Analyst  
 💻 Skills: Python, SQL, Excel, Power BI  
 📊 Interested in: Data Analytics, Business Intelligence, ML  
