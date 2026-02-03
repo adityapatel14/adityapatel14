@@ -9,7 +9,7 @@
 
 ## Projects
 
-### 1. Funds Spending & Budget Performance Analytics *(Internship Project)*
+### 1. Funds Spending & Budget Performance Analytics *(Internship Project)* - NDA COMPLIANT
 - Designed KPI dashboards for fund utilization and procurement tracking  
 - Analyzed budget trends and expense patterns using Power BI and Excel  
 - Built MIS reports to support stakeholder decision-making  
