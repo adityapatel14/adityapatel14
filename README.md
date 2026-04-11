@@ -53,6 +53,6 @@ I am a final-year Computer Engineering student specializing in data analysis, KP
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityapatel14&show_icons=true&theme=radical&hide_border=true&title_color=F2C811" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapatel14&layout=compact&theme=radical&hide_border=true&title_color=F2C811" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityapatel14&show_icons=true&theme=radical&hide_border=true&title_color=F2C811&v=1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapatel14&layout=compact&theme=radical&hide_border=true&title_color=F2C811&v=1" />
 </div>
