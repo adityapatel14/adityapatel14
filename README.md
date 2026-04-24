@@ -1,49 +1,70 @@
-# Hi there, I'm Aditya Patel 👋
+# Hi, I'm Aditya Patel 👋
 
-**Business Analyst | Data Analyst | Computer Engineering Undergraduate**
+### Data Analyst | Turning Raw Data into Business Decisions
 
-I am a final-year Computer Engineering student specializing in data analysis, KPI tracking, and driving data-driven decisions. I focus on translating complex datasets into actionable business insights to reduce costs, optimize performance, and streamline operations. 
+I'm an aspiring Data Analyst with hands-on experience in exploratory data analysis, machine learning, and business intelligence. I work across the full analytics stack — from writing SQL queries and cleaning data to building dashboards and training ML models — with a focus on delivering insights that drive real decisions.
+Looking for opportunities in JUNE.
+---
 
-📫 **Reach me at:** akp2k4@gmail.com | [LinkedIn](https://linkedin.com/in/aditya-kaushik-patel)
+## 🛠️ Tech Stack
+
+**Languages & Querying**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Analytics & BI**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+**Data Science**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-### 🛠️ Technical Arsenal
+## 📂 Featured Projects
 
-**Programming & Data Manipulation**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/mysql-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+### 📉 [Telco Customer Churn Prediction](https://github.com/adityapatel14/CUSTOMER_CHURN)
+> **Python • Machine Learning • EDA • Scikit-Learn**
 
-**Business Intelligence & Visualization**
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-
-**Tools & Environment**
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+Built and compared two classification models — Logistic Regression and Random Forest — to predict customer churn on the IBM Telco dataset (7,043 customers). Logistic Regression achieved **~86% accuracy** and outperformed Random Forest. Key findings included month-to-month contract holders and fiber optic users being at the highest churn risk.
 
 ---
 
-### 📊 Featured Analytics Projects
+### 🛒 [Supermart Sales Analysis](https://github.com/adityapatel14/Supermart)
+> **Python • SQL • EDA • Power BI**
 
-* **[Telco Customer Churn Analysis]([Link to Repo])** * Explored ~7,000+ telecom records with 20+ features using Python and SQL to investigate churn behavior. Pinpointed key loss drivers and designed a targeted Power BI dashboard for retention strategies.
-* **[Super Mart Business KPI & Sales Dashboard]([Link to Repo])** * Investigated declining profitability across 10,000+ sales records. Leveraged SQL and Power BI to evaluate segment-level performance, uncovering key loss drivers hiding in high-discount products.
-* **[Student Internship Trend & Demand Analytics]([Link to Repo])** * Examined 2,000+ internship records to uncover trends in participation and stipend distribution, visualizing seasonality and post-COVID hiring impacts through an interactive dashboard.
-
----
-
-### 💼 Professional Impact
-
-* **Business Analyst @ PicoNETS:** Examined CDN traffic logs to identify caching inefficiencies. Recommended strategies that reduced potential costs by ~12% and designed performance dashboards that cut stakeholder analysis time by 20%.
-* **Funds Analyst & Research Intern @ SSRP Mega Project:** Executed cost analysis across 100+ procurement transactions, collaborating cross-functionally to reduce costs by ~50%. Developed KPI dashboards that improved budget visibility and reduced manual reporting effort by 30%.
+End-to-end sales analysis on 4 years of retail transaction data (9,994 orders across 4 regions). Uncovered that Technology drives the highest profit margins, while heavy discounting in the Furniture category is causing consistent losses. Delivered regional performance breakdowns and YoY trend analysis.
 
 ---
 
-### 🚀 Beyond the Data
+### 🔻 [SaaS Conversion Funnel Analysis](https://github.com/adityapatel14/FUNNEL-XRAY)
+> **Python • SQL • EDA**
 
-* 🛰️ Represented K J Somaiya College of Engineering at the national-level IN-SPACE (ISRO) CanSat & Model Rocketry Competition Finals (2025).
-* 📻 Government-certified licensed HAM Radio Operator.
-* 📜 Certified in Google Cloud Data Analytics and Accounting Data Analytics with Python.
+Analysed the free-to-paid conversion funnel for 800 SaaS users across subscription tiers (Free → Basic → Pro → Enterprise). Segmented performance by country, device, and signup cohort to identify the highest-impact drop-off stages and upsell opportunities across a $0–$60 product catalogue.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityapatel14&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapatel14&layout=compact&theme=default&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 📫 Let's Connect
+
+I'm actively looking for Data Analyst opportunities. If you'd like to collaborate, discuss a project, or explore a potential role, feel free to reach out.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kaushik-patel)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityapatel14)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akp2k4@gmail.com)
+
+---
