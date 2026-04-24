@@ -18,7 +18,7 @@
 I'm an aspiring Data Analyst with hands-on experience in exploratory data analysis, machine learning, and business intelligence. I work across the full analytics stack — from writing SQL queries and cleaning data to building dashboards and training ML models — with a focus on delivering insights that drive real decisions.
 
 - 🔍 Currently working on analytics and ML projects
-- 📅 **Available for full-time roles from June 2025**
+- 📅 **Available for full-time roles from June 2026**
 - 📬 Reach me at **akp2k4@gmail.com**
 
 ---
