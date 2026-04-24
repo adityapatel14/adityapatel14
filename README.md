@@ -3,8 +3,10 @@
 ### Data Analyst | Turning Raw Data into Business Decisions
 
 I'm an aspiring Data Analyst with hands-on experience in exploratory data analysis, machine learning, and business intelligence. I work across the full analytics stack — from writing SQL queries and cleaning data to building dashboards and training ML models — with a focus on delivering insights that drive real decisions.
+
 Looking for opportunities in JUNE.
-~ akp2k4@gmail.com
+
+ ~ akp2k4@gmail.com
 ---
 
 ## 🛠️ Tech Stack
