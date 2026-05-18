@@ -3,7 +3,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=e94560&center=true&vCenter=true&width=600&lines=Data+Analyst+%F0%9F%93%8A;EDA+%2B+Machine+Learning+%F0%9F%A4%96;SQL+%2B+Python+%2B+Power+BI+%F0%9F%9B%A0%EF%B8%8F;Open+to+Opportunities+from+June+2025+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=e94560&center=true&vCenter=true&width=600&lines=Data+Analyst+%F0%9F%93%8A;EDA+%2B+Machine+Learning+%F0%9F%A4%96;SQL+%2B+Python+%2B+Power+BI+%F0%9F%9B%A0%EF%B8%8F;Open+to+Opportunities+from+June+2026+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <!-- Visitor Counter -->
